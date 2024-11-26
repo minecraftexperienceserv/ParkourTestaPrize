@@ -1,0 +1,4 @@
+commands:
+  - "money give {player} 30000"
+  - "broadcast public &aCongratulazioni a &e{player} per aver completato il parkour &c&l&nSpiral&r&a, come premio ha ricevuto 30k e lo stendardo dedicato all'evento!"
+  - "ei give {player} stendardo_parkour 1"

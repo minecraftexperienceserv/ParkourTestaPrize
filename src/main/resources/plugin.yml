@@ -1,0 +1,11 @@
+name: ParkourTestaPrize
+version: '1.0-SNAPSHOT'
+main: it.mcexp.parkourTestaPrize.ParkourTestaPrize
+api-version: '1.21'
+
+commands:
+  setheadp:
+    description: Imposta una testa cliccabile nel mondo.
+    usage: /setheadp
+    permission: parkourtestaprize.sethead
+    permission-message: Non hai il permesso per usare questo comando!
